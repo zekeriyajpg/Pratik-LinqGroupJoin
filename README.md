@@ -2,15 +2,6 @@
 
 Bu proje, bir okul veri tabanındaki öğrenciler ve sınıflar arasında **LINQ Group Join** işlemi yaparak, her sınıfın altında o sınıfa ait olan öğrencilerin listelendiği bir yapıyı gösterir.
 
-## İçindekiler
-
-- [Proje Açıklaması](#proje-açıklaması)
-- [Kod Yapısı](#kod-yapısı)
-- [Veri Seti](#veri-seti)
-- [LINQ Sorgusu](#linq-sorgusu)
-- [Sonuçların Yazdırılması](#sonuçların-yazdırılması)
-- [Çıktı](#çıktı)
-
 ## Proje Açıklaması
 
 Bu C# uygulaması, iki temel sınıf olan `Student` ve `Class` sınıfları ile çalışmaktadır. Öğrencilerin hangi sınıfa ait olduğunu göstermek amacıyla, LINQ Group Join sorgusu kullanılmıştır. Bu sayede, her sınıf altında o sınıfa ait öğrenciler listelenmiştir.
